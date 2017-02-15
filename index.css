@@ -87,7 +87,7 @@ body {
   margin: 40px;
 }
 
-.wrapper {
+.wrapper2 {
   display: grid;
   grid-template-columns: px 100px 100px;
   grid-gap: 10px;
@@ -95,7 +95,7 @@ body {
   color: #444;
 }
 
-.box {
+.box2 {
   background-color: #444;
   color: #fff;
   border-radius: 5px;
