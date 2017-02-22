@@ -70,7 +70,7 @@ body {
     grid-gap: 10px;
         grid-template-columns: 33% 33% 33%;
         grid-template-areas:
-    "....... header header"
+    "header header header"
         "sidebar content content"
         "footer  footer  footer";
         background-color: #fff;
