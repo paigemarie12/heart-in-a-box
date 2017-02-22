@@ -108,7 +108,7 @@ body {
   color: #fff;
   border-radius: 5px;
   padding: 20px;
-  font-size: 150%;
+  font-size: 18px;
 }
 
 .center {
@@ -116,3 +116,4 @@ body {
     width: 50%;
     padding: 10px;
 }
+
