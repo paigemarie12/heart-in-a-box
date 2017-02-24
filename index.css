@@ -97,7 +97,6 @@ body {
   display: grid;
   grid-template-columns: px 100px 100px;
   grid-gap: 10px;
-  background-color: #fff;
   color: #444;
 }
 
